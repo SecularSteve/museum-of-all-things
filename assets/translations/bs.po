@@ -223,10 +223,10 @@ msgid "Move Back"
 msgstr "Povratak"
 
 msgid "Strafe Left"
-msgstr "Strafe lijevo"
+msgstr "Šalt lijevo"
 
 msgid "Strafe Right"
-msgstr "Strafe desno"
+msgstr "Šalt desno"
 
 msgid "Jump"
 msgstr "Skoči"
@@ -295,7 +295,7 @@ msgid "Technology"
 msgstr "Tehnologija"
 
 msgid "Featured Technology Exhibits"
-msgstr "Izdvojeni tehnološki eksponati"
+msgstr "Istaknuti tehnološki eksponati"
 
 msgid "Science"
 msgstr "Nauka"
@@ -307,7 +307,7 @@ msgid "Geography"
 msgstr "Geografija"
 
 msgid "Featured Geography Exhibits"
-msgstr "Izdvojene geografske izložbe"
+msgstr "Istaknute geografske izložbe"
 
 msgid "Culture"
 msgstr "Kultura"
@@ -343,7 +343,7 @@ msgid "Search"
 msgstr "Pretraži"
 
 msgid "Featured Search Exhibits"
-msgstr "Izdvojene izložbe pretrage"
+msgstr "Istaknute izložbe pretrage"
 
 # ## scenes/Lobby.tscn Section
 msgid ""
